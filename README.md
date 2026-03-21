@@ -10,7 +10,7 @@
 
 - 🚀 **Core:** Desarrollo Frontend y diseño UI/UX.
 - 🏥 **Workspace:** Soluciones EdTech para **IMCS** (Sedes: Guayaquil, Ambato, Quito).
-- 🎮 **AFK:** Produciendo beats como **Devi2R** o causando caos en Los Santos (GTA).
+- 🎮 **AFK:** Creando temas como **Devi2R** o causando caos en Los Santos (GTA).
 - 📫 **Ping me:** [90rendon.abraham@gmail.com](mailto:90rendon.abraham@gmail.com)
 
 ---
