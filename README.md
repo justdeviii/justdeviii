@@ -63,9 +63,9 @@
 ### 🎵 Media Player (Devi2R)
 
 <div align="center">
-  <a href="URL_DE_TU_CANAL_DE_YOUTUBE" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="URL_DE_TU_PERFIL_DE_SPOTIFY" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="URL_DE_TU_SOUNDCLOUD" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@devi2r" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://open.spotify.com/intl-es/artist/1I2PbwHhmLFkZgBMIXOuPd" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://soundcloud.com/devi2r" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
 </div>
 
 ---
